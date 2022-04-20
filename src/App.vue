@@ -145,9 +145,9 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Third Resurrection",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "New Pilot Orientation",
+        "headerTitle": "Third Thousand",
+        "headerSubtitle": "Mercenary Outfit",
+        "subheaderTitle": "New Pilot Sims",
         "subheaderSubtitle": "Hotel-Oscar-Papa-Tango",
       },
       "options":{
